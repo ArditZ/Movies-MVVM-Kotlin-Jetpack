@@ -1,0 +1,64 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/8ChCpCYxh9YXusmHwcE9YzP0TSG.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 337404,
+      "original_language": "en",
+      "original_title": "Cruella",
+      "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+      "popularity": 1589.921,
+      "poster_path": "/A0knvX7rlwTyZSKj8H5NiARb45.jpg",
+      "release_date": "2021-05-26",
+      "title": "Cruella",
+      "video": false,
+      "vote_average": 8.8,
+      "vote_count": 574
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gNBCvtYyGPbjPCT1k3MvJuNuXR6.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 19404,
+      "original_language": "hi",
+      "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+      "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+      "popularity": 20.495,
+      "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+      "release_date": "1995-10-20",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "video": false,
+      "vote_average": 8.7,
+      "vote_count": 2901
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jtAI6OJIWLWiRItNSZoWjrsUtmi.jpg",
+      "genre_ids": [
+        10749
+      ],
+      "id": 724089,
+      "original_language": "en",
+      "original_title": "Gabriel's Inferno Part II",
+      "overview": "Professor Gabriel Emerson finally learns the truth about Julia Mitchell's identity, but his realization comes a moment too late. Julia is done waiting for the well-respected Dante specialist to remember her and wants nothing more to do with him. Can Gabriel win back her heart before she finds love in another's arms?",
+      "popularity": 6.736,
+      "poster_path": "/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg",
+      "release_date": "2020-07-31",
+      "title": "Gabriel's Inferno Part II",
+      "video": false,
+      "vote_average": 8.7,
+      "vote_count": 1259
+    }
+  ],
+  "total_pages": 439,
+  "total_results": 8771
+}
